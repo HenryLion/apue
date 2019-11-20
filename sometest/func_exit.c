@@ -27,3 +27,9 @@ int main (void)
 	printf ("main will return\n");
 	return 0;
 }
+
+
+void hello ()
+{
+	return;
+}
